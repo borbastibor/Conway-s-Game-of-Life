@@ -1,0 +1,3 @@
+﻿  GoL_main.cpp
+c:\users\borbi\documents\projects\sdlprojects\gameoflife\gameoflife.h(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfLife.vcxproj -> C:\Users\borbi\Documents\Projects\SDLProjects\Debug\GameOfLife.exe
